@@ -308,7 +308,7 @@ export default function UsersTable() {
 
         <div className="flex items-end justify-between flex-wrap gap-4 mb-6">
           <div>
-            <div className="text-[11px] tracking-[0.2em] text-[#F0B429] font-semibold uppercase mb-1">Kep.uz · Reyting (demo)</div>
+            <div className="text-[11px] tracking-[0.2em] text-[#F0B429] font-semibold uppercase mb-1"></div>
             <h1 className="text-2xl sm:text-3xl font-bold tracking-tight" style={{ fontFamily: "ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" }}>
               Foydalanuvchilar
             </h1>
